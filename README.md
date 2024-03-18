@@ -2,10 +2,10 @@
 PhonePe Pulse Data Visualization and Exploration is a fascinating project that provides a user-friendly tool for exploring and visualizing data from the PhonePe Pulse Github repository. Let’s delve into the details:
 
 About PhonePe:
-      1.PhonePe is an Indian digital payments and financial services company headquartered in Bengaluru, Karnataka, India.
-      2.Founded in December 2015, PhonePe offers a wide range of services, including money transfers, mobile recharges, utility bill payments, investments, and more.
-      3.The PhonePe app, based on the Unified Payments Interface (UPI), went live in August 2016 and is available in 11 Indian languages.
-      4.It’s accepted as a payment option by over 3.5 crore offline and online merchant outlets across India.
+  1.PhonePe is an Indian digital payments and financial services company headquartered in Bengaluru, Karnataka, India.
+  2.Founded in December 2015, PhonePe offers a wide range of services, including money transfers, mobile recharges, utility bill payments, investments, and more.
+  3.The PhonePe app, based on the Unified Payments Interface (UPI), went live in August 2016 and is available in 11 Indian languages.
+  4.It’s accepted as a payment option by over 3.5 crore offline and online merchant outlets across India.
 PhonePe Pulse:
       PhonePe Pulse is a feature within the PhonePe app.
       It provides users with personalized insights and trends related to their digital transactions and usage patterns.
